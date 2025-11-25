@@ -11,6 +11,8 @@ public:
         id=0;
         nume="EMPTY";
     }
+    //Comment
+    
     Persoana(int id, string nume){
         this->id=id;
         this->nume=nume;
